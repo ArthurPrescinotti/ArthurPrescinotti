@@ -10,61 +10,57 @@
   />
 </div>
 
-<br><br>   
-
-
 ### Linguagens de Programação Front-End 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; display: flex; flex-wrap: wrap;">
-    <img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Flutter"
-        title="Flutter" 
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"
-    />  
-    <img 
-        align="left" 
-        alt="React"
-        title="React" 
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />  
-     <img 
-        align="left" 
-        alt="Python"
-        title="Python" 
-        width="50px" 
-        style="padding-right: 10px; margin-bottom: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    /> 
-  </div>
+<div style="flex: 1; display: flex; flex-wrap: wrap;">
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="Flutter"
+    title="Flutter" 
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"
+  />  
+  <img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />  
+  <img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="50px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+  /> 
+</div>
   
 <br><br>
 
