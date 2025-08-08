@@ -3,10 +3,19 @@
 ## Seja bem-vindo!!!
 
 ### ⚙️ Github Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPrescinotti&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPrescinotti&theme=dark&layout=compact"
+    alt="Github Stats"
+    style="margin-bottom: 40px;"
+  />
+</div>
+
+<br><br>   
+
 
 ### Linguagens de Programação Front-End 
-
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; display: flex; flex-wrap: wrap;">
     <img 
