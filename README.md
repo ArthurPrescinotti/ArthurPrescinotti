@@ -5,10 +5,8 @@
 ### ⚙️ Github Analytics
 <div>
   <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPrescinotti&theme=dark&layout=compact"
     alt="Github Stats"
-    style="margin-bottom: 40px;"
   />
 </div>
 
