@@ -2,7 +2,7 @@
 
 ## Seja bem-vindo!!!
 
-### ⚙️ Github Analytics
+### ⚙️ Github Analytics:
 <div>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPrescinotti&theme=dark&layout=compact"
@@ -10,7 +10,7 @@
   />
 </div>
 
-### Linguagens de Programação Front-End 
+### Linguagens de Programação Front-End:
 <div style="flex: 1; display: flex; flex-wrap: wrap;">
   <img 
     align="left" 
@@ -64,7 +64,7 @@
   
 <br><br>
 
-### Linguagens de Programação Back-End
+### Linguagens de Programação Back-End:
 <div style="display: flex; flex-wrap: wrap;">
     <img 
         align="left" 
@@ -102,7 +102,7 @@
 
 <br><br>
 
-### Banco de Dados
+### Banco de Dados:
 <div style="display: flex; flex-wrap: wrap;">
     <img 
         align="left" 
@@ -124,7 +124,7 @@
 
 <br><br>
 
-### Ferramentas
+### Ferramentas:
 <div style="display: flex; flex-wrap: wrap;">
     <img 
         align="left" 
@@ -138,7 +138,7 @@
           
 <br><br>
 
-### Contas
+###  Redes Sociais:
 
 <div>
   <a href="https://www.linkedin.com/in/arthur-prescinotti-severino-a9b7422b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
