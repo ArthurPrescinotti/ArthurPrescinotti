@@ -60,7 +60,7 @@
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
   /> 
-</div>
+</div>  
   
 <br><br>
 
