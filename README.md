@@ -2,14 +2,6 @@
 
 ## Seja bem-vindo!!!
 
-### ⚙️ Github Analytics:
-<div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPrescinotti&theme=dark&layout=compact"
-    alt="Github Stats"
-  />
-</div>
-
 ### Linguagens de Programação Front-End:
 <div style="flex: 1; display: flex; flex-wrap: wrap;">
   <img 
